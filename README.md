@@ -9,20 +9,20 @@
 - [x] ALANZA
     - [x] Funciones
 - [x] C21_ALMA 
-    - [] Funciones
+    - [X] Funciones
 - [x] CASATUA
-    - [] Funciones
+    - [X] Funciones
 - [x] GAO 
-    - [] Funciones
+    - [X] Funciones
 - [x] M360
-    - [] Funciones
+    - [X] Funciones
 - [x] MMCALL
-    - [] Funciones
+    - [X] Funciones
 - [x] OCEANOS
-    - [] Funciones
+    - [X] Funciones
 - [x] PASOS_SALUDABLES 
-    - [] Funciones
+    - [X] Funciones
 - [x] URBAN_DOMUS 
-    - [] Funciones
+    - [X] Funciones
 - []
     - [] Funciones
