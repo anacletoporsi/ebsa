@@ -6,6 +6,11 @@
 
 - [x] ACSYS
 	- [x] Funciones
+        - [x] conversion.js
+    - [x] ANALYTICS 
+        - [x]  consulta.js
+    - [x] BOOKS
+        - [x] timbrado.js
 - [x] ALANZA
     - [x] Funciones
 - [x] C21_ALMA 
